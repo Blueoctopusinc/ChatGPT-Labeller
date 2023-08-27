@@ -5,7 +5,8 @@
 
 ## Purpose
 This program is designed to classify UFO sighting descriptions into refined shape categories. By taking a CSV file containing descriptions of UFO sightings, it categorizes them into predefined shape classes like "Saucer or Disk," "Triangle," "Cylinder/Cigar," etc. The classification leverages OpenAI's GPT-4 model with detailed classification instructions.
-More of a proof of concept for using GPT-4 to classify UFO sightings and has surprisingly good results. Also includes a CLI program to quickly validate the results manually. Data used is included in /data folder.
+More of a proof of concept for using GPT-4 to classify UFO sightings and has surprisingly good results. Also includes a CLI program to quickly validate the results manually. Data used is included in /data folder. 
+It labelled 894 samples in a couple of minutes and cost just under 4 dollars in API credits. 
 
 ## Installation and Setup
 
