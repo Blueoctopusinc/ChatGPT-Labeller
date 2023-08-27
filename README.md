@@ -1,4 +1,3 @@
-Certainly! Below is a README file that explains the purpose of the program, how to install it, set up the environment, and run it.
 
 ---
 
